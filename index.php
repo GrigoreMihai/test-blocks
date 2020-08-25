@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * Plugin Name: test
+ */
 /**
  * Registers all block assets so that they can be enqueued through Gutenberg in
  * the corresponding context.
